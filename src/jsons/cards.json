@@ -1,0 +1,118 @@
+{
+  "index": [
+    {
+      "cardTitle": "Personas",
+      "cardSrcSet": "./assets/images/index/personas.jpg",
+      "cardText": "Dirigido a personas naturales, de difícil acceso a la banca tradicional, para cubrir necesidades familiares y laborales de manera oportuna.",
+      "cardButtonText": "",
+      "cardButtonLink": "/productos/creditos?f=personas"
+    },
+    {
+      "cardTitle": "Empleados",
+      "cardSrcSet": "./assets/images/index/empleados.jpg",
+      "cardText": "Dirigido a los trabajadores y trabajadoras del I.M.C.P. y la Alcaldia de Caracas en condiciones de empleado fijo, contratado y cargo de confianza.",
+      "cardButtonText": "",
+      "cardButtonLink": "/productos/creditos?f=empleados"
+    },
+    {
+      "cardTitle": "Empresas",
+      "cardSrcSet": "./assets/images/index/empresas.png",
+      "cardText": "Dirigido a empresas de pequeña a media escala, para cubrir las necesidades que requieran de manero oportuna",
+      "cardButtonText": "",
+      "cardButtonLink": "/productos/creditos?f=empresas"
+    }
+    
+  ],
+
+  "cuentas": [
+    {
+      "cardTitle": "Cuenta Corriente",
+      "cardSrcSet": "../assets/images/lista/cuenta_corriente.jpg",
+      "cardText": "Es un instrumento financiero que te brinda la posibilidad de realizar tus operaciones bancarias con tan sólo emitir un cheque y con disponibilidad inmediata de fondos.",
+      "cardButtonLink": "/caracteristicas?type=acc&id=cuenta_corriente_n",
+      "cardButtonText": "Saber más",
+      "category": "personas"
+    },
+    {
+      "cardTitle": "Cuentas de Ahorro",
+      "cardSrcSet": "../assets/images/lista/cuenta_ahorro.png",
+      "cardText": "Diseñada con el fin de conservar esa parte del dinero que deseas guardar para un futuro, para algún gasto importante o algún imprevisto o emergencia económica.",
+      "cardButtonLink": "/caracteristicas?type=acc&id=cuenta_ahorro",
+      "cardButtonText": "Saber más",
+      "category": "personas"
+    },
+    {
+      "cardTitle": "Depositos a Plazo Fijo",
+      "cardSrcSet": "../assets/images/lista/plazo_fijo.png",
+      "cardText": "Producto financiero de ahorro, comprometiendo tus fondos por un lapso mayor o igual a 31 días.",
+      "cardButtonLink": "/caracteristicas?type=acc&id=plazo_fijo",
+      "cardButtonText": "Saber más",
+      "category": "personas"
+    },
+    {
+      "cardTitle": "Cuentas Corriente Jurídicas",
+      "cardSrcSet": "../assets/images/lista/corriente_juridica.jpg",
+      "cardText": "Es una cuenta no remunerada con disponibilidad inmediata de tu dinero, a través de cualquiera de nuestras oficinas.",
+      "cardButtonLink": "/caracteristicas?type=acc&id=cuenta_corriente_j",
+      "cardButtonText": "Saber más",
+      "category": "empresas"
+    }
+  ],
+
+  "creditos": [
+    {
+      "cardTitle": "Crédito Social",
+      "cardSrcSet": "../assets/images/lista/credito_social.jpg",
+      "cardText": "Destinado a personas naturales, dando respuesta crediticia oportuna a los sectores de difícil acceso a la banca tradicional, crédito a corto plazo o mediano plazo, con un monto acorde a la capacidad de pago del solicitante.",
+      "cardButtonLink": "/caracteristicas?type=cred&id=credito_social",
+      "cardButtonText": "Saber más",
+      "category": "personas"
+    },
+    {
+      "cardTitle": "Crédito empleado I.M.C.P.",
+      "cardSrcSet": "../assets/images/lista/credito_empleado_imcp.jpg",
+      "cardText": "Dirigido a los trabajadores y trabajadoras del Instituto Municipal de Crédito Popular, en condiciones de empleado fijo, contratado y cargo de confianza.",
+      "cardButtonLink": "/caracteristicas?type=cred&id=credito_empleado_imcp",
+      "cardButtonText": "Saber más",
+      "category": "empleados"
+    },
+    {
+      "cardTitle": "Crédito empleados Alcaldia de Caracas",
+      "cardSrcSet": "../assets/images/lista/credito_empleado_caracas.jpg",
+      "cardText": "Dirigido a los trabajadores y trabajadoras que pertenecen al órgano de la Alcaldia de Caracas, en condiciones de empleado fijo, contratado y cargo de confianza.",
+      "cardButtonLink": "/caracteristicas?type=cred&id=credito_empleado_ac",
+      "cardButtonText": "Saber más",
+      "category": "empleados"
+    },
+    {
+      "cardTitle": "Caracas Financia",
+      "cardSrcSet": "../assets/images/lista/credito_caracas_financia.jpg",
+      "cardText": "Programa de financiamiento dirigido a personas naturales, para la adquisición de productos de línea blanca y línea marrón.",
+      "cardButtonLink": "/caracteristicas?type=cred&id=credito_caracas_financia",
+      "cardButtonText": "Saber más",
+      "category": "empresas"
+    }
+  ],
+
+  "servicios": [
+    {
+      "cardTitle": "Pago de Impuesto Supra Caracas",
+      "cardSrcSet": "../assets/images/lista/logo_alcaldia.jpg",
+      "cardText": "Recepción de las planillas de pagos de Impuestos de Aseo Urbano emitidas por SUPRACARACAS",
+      "cardButtonLink": "https://www.caracas.gob.ve/alcaldiaDeCCS/",
+      "cardButtonText": "Visita Supra Caracas"
+    },
+    {
+      "cardTitle": "Pago de Impuesto Sumar",
+      "cardSrcSet": "../assets/images/lista/logo_alcaldia.jpg",
+      "cardText": "Recepción de las planillas de pagos de Impuestos emitidas por la Superintendencia Municipal de Administración Tributaria de la Alcaldía de Caracas.",
+      "cardButtonLink": "https://www.sumar.gob.ve",
+      "cardButtonText": "Visita Sumar"
+    },
+    {
+      "cardTitle": "Biopago",
+      "cardSrcSet": "../assets/images/lista/biopago.jpg",
+      "cardText": "Es un medio de pago que a través de un dispositivo biométrico, permite realizar transacciones utilizando la huella dactilar como factor de autenticación."
+    }
+  ]
+}

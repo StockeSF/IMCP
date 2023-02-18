@@ -1,0 +1,107 @@
+{
+  "credito_social": [
+    {
+      "pagetitle": "Crédito Social",
+      "title": "Crédito Social",
+      "desc": "Programa de financiamiento dirigido a personas naturales, de difícil acceso a la banca tradicional, para cubrir necesidades familiares y laborales de manera oportuna."
+    },
+    {
+      "desc": "Destinado a personas naturales, dando respuesta crediticia oportuna a los sectores de difícil acceso a la banca tradicional, crédito a corto plazo o mediano plazo, con un monto acorde a la capacidad de pago del solicitante.",
+      "tabs": [
+        {
+          "tab": ["Condiciones"],
+          "points": [
+            [
+              "Destinado a personas naturales, dando respuesta crediticia oportuna a los sectores de dificil acceso a la Banca tradicional.",
+              "Crédito a corto o mediano plazo, con un monto máximo de (Bs. 3.500,00).",
+              "Cuota de doce (12) meses para pagar.",
+              "Sin cuotas especiales.",
+              "Tasa de Interés: 36% fija anual.",
+              "Garantía: Personal.",
+              "Comisión FLAT 5%",
+              "Puede realizarse amortizaciones especiales, sin penalización.",
+              "Monto a financiar dependiendo la capacidad de pago cliente."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+
+  "credito_empleado_imcp": [
+    {
+      "pagetitle": "Crédito empleado I.M.C.P.",
+      "title": "Crédito empleado I.M.C.P.",
+      "desc": "Dirigido a los trabajadores y trabajadoras del Instituto Municipal de Crédito Popular, en condiciones de empleado fijo, contratado y cargo de confianza.",
+      "tabs": [
+        {
+          "tab": ["Características"],
+          "points": [
+            [
+              "Tasa Interés: 6 %.",
+              "Plazo del Financiamiento: Hasta 60 Meses.",
+              "No aplica Comisión Flat para este producto.",
+              "Calculo Salario Integral Mensual, hasta doce (12) Salarios Integrales, sin incluir Bono de Alimentación.",
+              "Cancelación total del Crédito para optar a una nueva solicitud.",
+              "Cancelación anticipada del 50% del Crédito Vigente. Amortización Capital e Intereses."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+
+  "credito_empleado_ac": [
+    {
+      "pagetitle": "Crédito empleados Alcaldia de Caracas",
+      "title": "Crédito empleados Alcaldia de Caracas",
+      "desc": "Programa de financiamiento dirigido a personas naturales, de difícil acceso a la banca tradicional, para cubrir necesidades familiares y laborales de manera oportuna."
+    },
+    {
+      "desc": "Destinado a personas naturales, dando respuesta crediticia oportuna a los sectores de difícil acceso a la banca tradicional, crédito a corto plazo o mediano plazo, con un monto acorde a la capacidad de pago del solicitante",
+      "tabs": [
+        {
+          "tab": ["Características"],
+          "points": [
+            [
+              "Plazo del financiamiento: 24 meses para pagar.",
+              "Tasa de interés: 12 % fija anual.",
+              "Garantía: fiador (puede ser sin garantía, mediante autorización de presidencia.",
+              "Sin cobro de comisión Flat.",
+              "Puede realizarse amortizaciones especiales, sin penalización."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+
+  "credito_caracas_financia": [
+    {
+      "pagetitle": "Caracas Financia",
+      "title": "Caracas Financia",
+      "desc": "Programa de financiamiento dirigido a personas naturales, para la adquisición de productos de línea blanca y línea marrón.",
+      "tabs": [
+        {
+          "tab": [
+            "Nivel 1 (Montos hasta 1.000Bs.)",
+            "Nivel 2 (Montos mayores a 1.000Bs.)"
+          ],
+          "points": [
+            [
+              "Cédula de Identidad o pasaporte (en caso de ser extranjero) vigente.",
+              "Registro de Información Fiscal (RIF) vigente."
+            ],
+            [
+              "Cédula de Identidad o pasaporte (en caso de ser extranjero) vigente.",
+              "Registro de Información Fiscal (RIF) vigente.",
+              "En caso de ser extranjero, pasaporte legible, y una referencia bancaria sellada por la institución Financiera vigencia de hasta 90 días.",
+              "Constancia de Trabajo.",
+              "Certificación de Ingresos cuando se trate de persona de libre actividad económica."
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

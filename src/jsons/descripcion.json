@@ -1,0 +1,105 @@
+{
+  "nuestras_sedes": [
+    {
+      "pagetitle": "Contáctanos",
+      "title": "Sede Principal",
+      "desc": "Dirección: El Silencio, Bloque 1, Planta Baja, Frente a la Plaza O'Leary. Parroquia San Juan, Caracas. Distrito Capital."
+    },
+    {
+      "desc": "Números de Teléfono: (0212) 481.06.81 / 481.19.44."
+    },
+    {
+      "title": "Sede Glorieta",
+      "desc": "Dirección: Reducto a Glorieta, Edif. SUMAT, P.B. El Silencio, Caracas."
+    },
+    {
+      "desc": "Números de Teléfono: (0212) 482.66.53."
+    },
+    {
+      "title": "Sede San Martín",
+      "desc": "Dirección: Avda. Principal de San Martín, al lado de la estación del Metro Artigas, Resd. Cabildo II, P.B. San Martín, Caracas."
+    },
+    {
+      "desc": "Números de Teléfono: (0212) 461.47.18."
+    },
+    {
+      "title": "Sede San Martín II",
+      "desc": "Dirección: Avda. San Martín Centro de Economia Popular Juan Francisco de León, P.B. (Frente a Locatel)."
+    },
+    {
+      "desc": "Números de Teléfono: (0212) 452.06.63."
+    },
+    {
+      "title": "Sede Sabana Grande",
+      "desc": "Dirección: Final Boulevard Sabana Grande, Centro Comunal Manuela Sáez, P.B."
+    },
+    {
+      "desc": "Números de Teléfono: (0212) 951.2695."
+    },
+    {
+      "title": "Taquilla Externa la Bandera",
+      "desc": "Dirección: Terminal de La Bandera, piso 2, Final Avda. Nueva Granada."
+    },
+    {
+      "desc": "Números de Teléfono: (0212) 662.42.29."
+    }
+  ],
+
+  "defensor_al_cliente": [
+    {
+      "pagetitle": "Defensor del Cliente y Usuario Bancario",
+      "title": "Defensor del Cliente y Usuario Bancario",
+      "desc": "Cumpliendo con lo establecido en las Normas relativas a la protección de los usuarios y usuarias de los servicios financieros emitida por la Superintendencia de las instituciones del sector bancario, según Resolución N° 063.15 de fecha 12 de junio de 2015, publicada en la Gaceta Oficial Nro. 40.809, de fecha 14 de diciembre de 2015, ponemos a disposición de nuestros clientes, usuarios y usuarias la figura del Defensor del Cliente y Usuario Bancario.",
+      "tabs": [
+        {
+          "tab": [
+            "Funciones",
+            "¿Cuando acudir?",
+            "¿Como acudir?",
+            "Tiempo de Respuesta"
+          ],
+          "text": [
+            "Tramitar y resolver de forma oportuna las solicitudes de reconsideración presentadas por los clientes, usuarios y usuarias bancarios, de los casos declarados como no procedentes por la Unidad de Atención al Cliente y Usuario Bancario y en aquellos casos donde a juicio del cliente, estimen que la institución ha incumplido con los términos y condiciones ofrecidas en la prestación de servicio. El Defensor del Cliente y Usuario Bancario, actuará de manera objetiva e imparcial con absoluta independencia y con total autonomía en cuanto a los criterios y directrices a aplicar.",
+            "Los clientes, usuarios y usuarias bancarios, pueden acudir al Defensor, cuando no esté de acuerdo con el dictamen emanado de esta entidad financiera, en ocasión de algún tipo de operación o servicio bancario o financiero, prestado por el banco, cuando haya sufrido un tratamiento incorrecto o no ajustado a derecho.",
+            "Las solicitudes dirigidas al Defensor, deberán presentarse por escrito proporcionando los siguientes datos: Nombres y apellidos, Número de Cédula de Identidad o pasaporte vigente, Teléfonos de contacto, Dirección física, Dirección de correo electrónico, Descripción clara y precisa de los hechos, En caso de ser persona jurídica, indicar el nombre y número de Registro de Información Fiscal (RIF) y documento constitutivo.",
+            "El Defensor del Cliente Bancario, tendrá un tiempo máximo de veinte (20) días continuos contados a partir del día hábil siguiente en que recibió el requerimiento para dictar la decisión con respecto al caso presentado."
+          ]
+        }
+      ]
+    }
+  ],
+
+  "legitimacion_de_capitales": [
+    {
+      "pagetitle": "Prevención LC/FT",
+      "title": "Legitimación de Capitales (LC)",
+      "desc": "Es el proceso de esconder o disimular el origen, movimiento, destino o uso de bienes o fondos que tienen una fuente ilícita queriendo aparentar que son provenientes de una actividad legítima. Este delito consta de tres (3) fases:",
+      "tabs": [
+        {
+          "tab": ["Colocación", "Procesamiento", "Integración"],
+          "text": [
+            "Se introducen las ganancias ilegales en el sistema financiero. En la mayoría de los casos esta etapa viene acompañada de la colocación de los fondos para hacerlos circular a través de instituciones financieras.",
+            "Se realiza una serie de transacciones financieras a fin de evitar la detección y evadir las investigaciones sobre el origen y fuente de los fondos provenientes de actividades ilícitas.",
+            "Los fondos son incorporados en el sistema económico, aparentando ser de origen o fuente lícita."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "El Financiamiento al Terrorismo (FT)",
+      "desc": "Es la actividad que ejecuta una persona (natural o jurídica) al proporcionar apoyo financiero a terroristas u organizaciones de esta naturaleza, con el objetivo de patrocinar actos encaminados a provocar un estado de terror en el público en general, invocando propósitos políticos, filosóficos, ideológicos, raciales, étnicos, religiosos o de cualquier otra naturaleza para justificarlos. Etapas del proceso del financiamiento al terrorismo:",
+      "tabs": [
+        {
+          "tab": ["Recaudación", "Disposición", "Utilización"],
+          "text": [
+            "Es la búsqueda de fuentes de financiamiento por parte de las organizaciones terroristas, que pueden provenir de fondos legítimos e ilegítimos.",
+            "Es el movimiento de los mismos fondos, que a través de técnicas buscan ubicarlos en manos de los destinatarios en el lugar deseado.",
+            "Los recursos obtenidos son transferidos y acumulados para ser destinados a la logística operativa, que abarca la planeación y realización de actos terroristas."
+          ]
+        }
+      ]
+    }
+  ]
+
+  
+}

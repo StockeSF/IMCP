@@ -1,0 +1,152 @@
+{
+  "cuenta_corriente_n": [
+    {
+      "pagetitle": "Cuenta Corriente",
+      "title": "Cuenta Corriente",
+      "desc": "Es un instrumento financiero que te brinda la posibilidad de realizar tus operaciones bancarias con tan sólo emitir un cheque y con disponibilidad inmediata de fondos.",
+      "tabs": [
+        {
+          "tab": ["Características", "Requisitos", "Recaudos"],
+          "points": [
+            [
+              "Disponibilidad inmediata de los fondos.",
+              "Fácil movilización de tu cuenta, a través de chequeras de veinticinco (25) o cincuenta (50) cheques.",
+              "No genera interés.",
+              "Disponibilidad inmediata de tu dinero sin necesidad de llevar efectivo, a través de cualquiera de nuestras oficinas.",
+              "Puede ser movilizada por una o más personas, en forma Individual o conjunta."
+            ],
+            [
+              "Ser persona natural.",
+              "Ser mayor de edad.",
+              "Monto mínimo de apertura de 0,01 Bs.S."
+            ],
+            [
+              "Cédula de Identidad (original y copia).",
+              "Registro Único de Información Fiscal (RIF) original y copia (vigente), con dirección igual a la del recibo del servicio público o Carta de Residencia.",
+              "Constancia de Trabajo (Vigente 30 días) o Certificación de Ingresos Original (Vigente 3 meses).",
+              "Recibo de Servicio Público cancelado y vigente o Carta de Residencia del CNE (Vigente 30 días).",
+              "Una (01) Referencia Bancaria sellada y firmada en Original (Vigente 30 días).",
+              "Dos (02) Referencias Personales, deben especificar dirección y teléfono local. Anexar copia de la cédula de identidad de quien la emite.",
+              "Dirigirse con los recaudos a la agencia más cercana."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+
+  "cuenta_corriente_j": [
+    {
+      "pagetitle": "Cuentas Corriente Jurídicas",
+      "title": "Cuentas Corriente Jurídicas",
+      "desc": "Es una cuenta no remunerada con disponibilidad inmediata de tu dinero, a través de cualquiera de nuestras oficinas.",
+      "tabs": [
+        {
+          "tab": [
+            "Características",
+            "Requisitos",
+            "Recaudos personas jurídicas",
+            "Recaudos consejos comunales"
+          ],
+          "points": [
+            [
+              "Monto mínimo de apertura 0,01 Bs.S",
+              "Disponibilidad inmediata de los fondos.",
+              "Fácil movilización de la cuenta de tu empresa, a través de chequeras de 25 o 50 cheques.",
+              "No genera interés.",
+              "Disponibilidad inmediata de los fondos de tu empresa sin necesidad de llevar efectivo, en cualquiera de nuestras agencias.",
+              "Permite utilizar el resto de nuestros productos y servicios: inversiones, créditos, entre otros."
+            ],
+            ["Ser persona jurídica."],
+            [
+              "Registro Mercantil con sus modificaciones existentes (original y copia).",
+              "Registro Único de Información Fiscal (RIF) original y copia (vigente). DE LOS FIRMANTES Y LA EMPRESA.",
+              "Cédula de Identidad o Pasaporte Vigente (original y copia) de cada firmante.",
+              "Constancia de Trabajo (Vigente 30 días) o Certificación de ingresos Original (Vigente 3 meses).",
+              "Ultima Declaración de Impuesto Sobre la Renta (ISLR) de la Empresa.",
+              "Recibo de Servicio Público cancelado y vigente de la empresa (Vigente 30 días).",
+              "Recibo de Servicio Público cancelado y vigente de los firmantes o Carta de Residencia CNE (Vigente 30 días).",
+              "Una (01) Referencia Bancaria de la empresa y cada firmante. Firmadas y Selladas en Original (Vigente 30 días).",
+              "Dos (02) Referencias Comerciales de la Empresa Original (Vigente 30 días).",
+              "Dos (02) Referencias Personales, deben especificar dirección y teléfono local. Anexar copia de la cédula de identidad de quien la emite.",
+              "Carta de Solicitud de apertura de cuenta indicando las condiciones de la movilización de la cuenta por parte de los firmantes, según los estatutos de administración de la empresa (firmada y sellada).",
+              "Dirigirse con los recaudos a la agencia más cercana."
+            ],
+            [
+              "Acta Constitutiva del Consejo Comunal (Original y Copia).",
+              "Certificado Vigente de Registro del Consejo Comunal ante el Ministerio del Poder Popular Para Las Comunas y Protección Social (MPPCPS).",
+              "Carta dirigida al IMCP, emitida por el MPPCPS.",
+              "Registro Único de Información Fiscal (RIF) original y copia (vigente). DE LOS FIRMANTES Y EL CONSEJO COMUNAL.",
+              "Cédula de Identidad (original y copia) de cada firmante.",
+              "Constancia de Trabajo (Vigente 30 días) o Certificación de ingresos original (Vigente 3 meses). Si no laboran consignar la Declaración Jurada de Patrimonio, No comprobante. (Vigente).",
+              "Recibo de Servicio Público cancelado y vigente o Carta de Residencia del CNE (Vigente 30 días).",
+              "Una (01) Referencia Bancaria de la empresa y cada firmante. Firmadas y Selladas en Original (Vigente 30 días).",
+              "Referencias Bancarias del Consejo Comunal y de cada firmante, firmadas y selladas en Original y Vigente (30 días).",
+              "Dos (02) referencias Personales de cada uno de los firmantes. Deben especificar dirección y teléfono local y anexar copia de la cédula de identidad de quien la emite."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+
+  "cuenta_ahorro": [
+    {
+      "pagetitle": "Cuentas de Ahorro",
+      "title": "Cuentas de Ahorro",
+      "desc": "Diseñada con el fin de conservar esa parte del dinero que deseas guardar para un futuro, para algún gasto importante o algún imprevisto o emergencia económica.",
+      "tabs": [
+        {
+          "tab": ["Características", "Requisitos", "Recaudos"],
+          "points": [
+            [
+              "A solicitud del Cliente.",
+              "Movilización de tu cuenta, a través de una libreta de ahorro.",
+              "Tasa de interés variable, establecida por el BCV.",
+              "Intereses calculados sobre saldo promedio disponible, depositados a fin de mes.",
+              "Disponibilidad inmediata de tu dinero, a través de cualquiera de nuestras oficinas.",
+              "Puede ser movilizada por una o más personas, en forma individual o conjunta."
+            ],
+            [
+              "Ser persona natural.",
+              "Ser mayor de edad.",
+              "Monto mínimo de apertura a solicitud del cliente."
+            ],
+            [
+              "Cédula de Identidad (original y copia).",
+              "Registro Único de Información Fiscal (RIF) original y copia (vigente), con dirección igual a la del recibo del servicio público o Carta de Residencia.",
+              "Constancia de Trabajo (Vigente 30 días) o Certificación de Ingresos Original (Vigente 3 meses).",
+              "Recibo de Servicio Público cancelado y vigente o Carta de Residencia del CNE (Vigente 30 días).",
+              "Una (01) Referencia Bancaria sellada y firmada en Original (Vigente 30 días).",
+              "Dos (02) Referencias Personales, deben especificar dirección y teléfono local. Anexar copia de la cédula de identidad de quien la emite.",
+              "Dirigirse con los recaudos a la agencia más cercana."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+
+  "plazo_fijo": [
+    {
+      "pagetitle": "Depositos a Plazo Fijo",
+      "title": "Depositos a Plazo Fijo",
+      "desc": "Producto financiero de ahorro, comprometiendo tus fondos por un lapso mayor o igual a 31 días.",
+      "tabs": [
+        {
+          "tab": ["Características", "Requisitos"],
+          "points": [
+            [
+              "Tasa de interés establecida por el Banco Central de Venezuela (BCV).",
+              "Los intereses son abonados a la cuenta del cliente mensualmente o al vencimiento de la inversión.",
+              "Fondos amparados por FOGADE.",
+              "Los certificados de Depósitos a Plazo pueden ser Negociables o No negociables.",
+              "La renovación se efectúa con tu solicitud expresa. Es indispensable presentar el título vencido, no se realizan renovaciones automáticas."
+            ],
+            ["Poseer cuenta en el Instituto Municipal de Crédito Popular."]
+          ]
+        }
+      ]
+    }
+  ]
+}
