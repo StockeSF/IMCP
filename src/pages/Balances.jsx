@@ -1,11 +1,14 @@
 import { useContext, useState } from "react";
-import { useLocation } from "react-router-dom";
-import { SwiperSlide } from "swiper/react";
-import Tabs from "../components/Tabs";
-import SwiperHeader from "../components/Swipers/SwiperHeaders";
+
 import { MainContext } from "../context/MainContext";
+
+import { useLocation } from "react-router-dom";
+
+import { SwiperSlide } from "swiper/react";
+
+import SwiperHeader from "../components/Swipers/SwiperHeaders";
+import Tabs from "../components/Tabs";
 import Box from "../components/Box";
-import image1 from "../assets/images/balances/balances_background.jpg";
 
 function Balances() {
   const { timeStamps, functions } = useContext(MainContext);
@@ -17,7 +20,10 @@ function Balances() {
     <>
       <SwiperHeader>
         <SwiperSlide>
-          <img src={image1} className="swiperHeader__img" />
+          <img
+            src="/images/balances/balances_background.jpg"
+            className="swiperHeader__img"
+          />
         </SwiperSlide>
 
         <Box
