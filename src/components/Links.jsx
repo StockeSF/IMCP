@@ -1,4 +1,3 @@
-
 function Links({ children, linkOptions }) {
   const { link, classTitle, target } = linkOptions;
 

@@ -1,19 +1,16 @@
-import { useContext, useEffect } from "react";
-import { MainContext } from "../../context/MainContext";
-import AbtusImg from "../../assets/images/quienesomos/img_abtus2.jpg";
-import AbtusImg650 from "../../assets/images/quienesomos/img_abtus_650.jpg";
-import AbtusBiography from "../../assets/images/icons/i_biography.png";
-import AbtusMission from "../../assets/images/icons/i_mission.png";
-import AbtusVision from "../../assets/images/icons/i_vision.png";
-
 function Abtus() {
   return (
     <section className="abtus">
       <div className="abtus__row">
         <article className="abtus__col">
           <picture>
-            <source srcSet={AbtusImg650} media="(max-width: 560px)" loading="lazy" />
-            <img className="abtus__img" src={AbtusImg} alt="" loading="lazy" />
+            <source srcSet="/images/quienesomos/img_abtus_650.jpg" media="(max-width: 560px)" loading="lazy" />
+            <img
+              className="abtus__img"
+              src="/images/quienesomos/img_abtus2.jpg"
+              alt=""
+              loading="lazy"
+            />
           </picture>
 
           <div>
@@ -21,7 +18,7 @@ function Abtus() {
               <span> Nuestra historia </span>
               <img
                 className="abtus__title-h1-img"
-                src={AbtusBiography}
+                src="/images/icons/i_biography.png"
                 loading="lazy"
                 alt=""
               />
@@ -53,7 +50,7 @@ function Abtus() {
               <span> Misión </span>
               <img
                 className="abtus__title-h2-img"
-                src={AbtusMission}
+                src="/images/icons/i_mission.png"
                 loading="lazy"
                 alt="..."
               />
@@ -75,7 +72,7 @@ function Abtus() {
               <span> Visión </span>
               <img
                 className="abtus__title-h2-img"
-                src={AbtusVision}
+                src="/images/icons/i_vision.png"
                 loading="lazy"
                 alt="..."
               />

@@ -1,12 +1,15 @@
 import { Route, Routes } from "react-router-dom";
+
 import Index from "./pages/Index";
-import Navegation from "./components/Navegation";
-import Totop from "./components/Totop";
-import Footer from "./components/Footer";
 import Lista from "./pages/Lista";
 import Error from "./pages/Error";
 import Balances from "./pages/Balances";
 import Descripcion from "./pages/Descripcion"
+
+import Navegation from "./components/Navegation";
+import Totop from "./components/Totop";
+import Footer from "./components/Footer";
+
 import "./App.css";
 
 function App() {

@@ -1,8 +1,11 @@
 import { useContext } from "react";
-import { SwiperSlide } from "swiper/react";
+
 import { MainContext } from "../../context/MainContext";
-import Cards from "../Cards";
+
+import { SwiperSlide } from "swiper/react";
 import SwiperCredits from "../Swipers/SwiperCredits";
+
+import Cards from "../Cards";
 
 function Card() {
   const { jsons } = useContext(MainContext);

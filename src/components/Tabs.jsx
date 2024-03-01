@@ -1,8 +1,12 @@
 import { useContext, useState } from "react";
-import { SwiperSlide } from "swiper/react";
+
 import { MainContext } from "../context/MainContext";
-import Points from "./Points";
+
+import { SwiperSlide } from "swiper/react";
+
 import SwiperTabs from "./Swipers/SwiperTabs";
+
+import Points from "./Points";
 
 function Tabs({ tabsSettings }) {
   const { functions } = useContext(MainContext);

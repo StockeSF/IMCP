@@ -1,6 +1,9 @@
-import { FaInstagram } from "react-icons/fa";
 import { useContext } from "react";
+
 import { MainContext } from "../context/MainContext";
+
+import { FaInstagram } from "react-icons/fa";
+
 import Links from "./Links";
 
 function Footer() {

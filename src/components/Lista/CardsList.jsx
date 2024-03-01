@@ -1,5 +1,7 @@
 import { useContext } from "react";
+
 import { FilterContext } from "../../context/FilterContext";
+
 import Cards from "../Cards";
 
 function CardsList() {

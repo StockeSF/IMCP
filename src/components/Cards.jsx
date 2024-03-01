@@ -1,6 +1,8 @@
 import { useEffect } from "react";
+
 import { useContext } from "react";
 import { MainContext } from "../context/MainContext";
+
 import Links from "./Links";
 
 function Cards({ cardOptions }) {

@@ -1,6 +1,9 @@
 import { useContext, useEffect } from "react";
-import { FaAddressCard, FaBalanceScale, FaHandHolding } from "react-icons/fa";
+
 import { MainContext } from "../../context/MainContext";
+
+import { FaAddressCard, FaBalanceScale, FaHandHolding } from "react-icons/fa";
+
 import Links from "../Links";
 
 function Options() {

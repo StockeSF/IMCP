@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
+
 import Links from "./Links";
-import logo from "../assets/images/favicon/imcp.jpg"
 
 function Navegation() {
   const [stickyMenu, setStickyMenu] = useState(false);
@@ -45,7 +45,10 @@ function Navegation() {
 
       <header className="header">
         <div className="header__logo-container">
-          <img src={logo} className="header__logo-img" />
+          <img
+            src="/images/favicon/imcp.jpg"
+            className="header__logo-img"
+          />
         </div>
 
         <nav className="header__links-div">

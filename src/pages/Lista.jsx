@@ -1,15 +1,16 @@
 import { useContext } from "react";
-import { SwiperSlide } from "swiper/react";
+
+import { useParams } from "react-router-dom";
+
 import { MainContext } from "../context/MainContext";
 import FilterContextProvider from "../context/FilterContext";
+
+import { SwiperSlide } from "swiper/react";
+
 import SwiperHeader from "../components/Swipers/SwiperHeaders";
-import slide1 from "../assets/images/credito/cuentas_background.jpg";
-import slide2 from "../assets/images/credito/credito_background.jpg";
-import slide3 from "../assets/images/credito/servicios_background.jpg";
 import CardsList from "../components/Lista/CardsList";
 import Box from "../components/Box";
 import FilterBtn from "../components/Lista/FilterBtn";
-import { useParams } from "react-router-dom";
 
 function Lista() {
   const { functions } = useContext(MainContext);
@@ -19,13 +20,22 @@ function Lista() {
     <FilterContextProvider>
       <SwiperHeader>
         <SwiperSlide>
-          <img src={slide1} className="swiperHeader__img" />
+          <img
+            src="/images/credito/cuentas_background.jpg"
+            className="swiperHeader__img"
+          />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={slide2} className="swiperHeader__img" />
+          <img
+            src="/images/credito/credito_background.jpg"
+            className="swiperHeader__img"
+          />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={slide3} className="swiperHeader__img" />
+          <img
+            src="/images/credito/servicios_background.jpg"
+            className="swiperHeader__img"
+          />
         </SwiperSlide>
 
         <Box

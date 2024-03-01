@@ -1,11 +1,14 @@
 import { useContext } from "react";
-import { Navigate, useSearchParams } from "react-router-dom";
+
 import { MainContext } from "../context/MainContext";
+
+import { Navigate, useSearchParams } from "react-router-dom";
+
 import Tabs from "../components/Tabs";
 
 function Descripcion() {
   const { jsons } = useContext(MainContext);
-  const [params, setParams] = useSearchParams();
+  const [params, _] = useSearchParams();
 
   let type = params.get("type") ?? "desc";
   let id = params.get("id") ?? "defensor_al_cliente";
