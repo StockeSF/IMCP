@@ -13,7 +13,7 @@ import Box from "../components/Box";
 function Balances() {
   const { timeStamps, functions } = useContext(MainContext);
   const { balanceTabs, capitalize } = functions;
-  const [ntabs, setNtabs] = useState(balanceTabs);
+  const [ntabs, _] = useState(balanceTabs);
   let path = String(useLocation().pathname).slice(1,9);
 
   return (
